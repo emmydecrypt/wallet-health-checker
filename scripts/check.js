@@ -11,7 +11,7 @@ async function getBalance(address) {
 
     const options = {
       hostname: "api.zan.top",
-      path: "/node/v1/pharos/atlantic/139482a231794f9488a572bcda7bedd7",
+      path: "/node/v1/pharos/mainnet/139482a231794f9488a572bcda7bedd7",
       method: "POST",
       headers: {
         "Content-Type": "application/json",
