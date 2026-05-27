@@ -1,6 +1,6 @@
 # Wallet Health Checker
 
-A Pharos Agent Skill that checks the health of any wallet on the Pharos Atlantic Testnet.
+A Pharos Agent Skill that checks the health of any wallet on the Pharos Pacific Mainnet.
 
 ## What It Does
 - Fetches live PHRS balance from the blockchain
@@ -42,4 +42,4 @@ Advice  : Wallet has sufficient balance.
 - pharos-agent-kit
 
 ## Network
-- Pharos Atlantic Testnet (Chain ID: 688688)
+- Pharos Pacific Mainnet (Chain ID: 688688)
