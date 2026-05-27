@@ -25,3 +25,12 @@ node scripts/check.js 0x000000000000000000000000000000000000dEaD
 ```
 
 ### Output
+### Output
+```
+Checking wallet: 0x000000000000000000000000000000000000dEaD
+
+Wallet  : 0x000000000000000000000000000000000000dEaD
+Balance : 1.3584 PHRS
+Status  : Healthy
+Advice  : Wallet has sufficient balance.
+```
